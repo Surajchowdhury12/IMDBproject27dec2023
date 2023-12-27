@@ -62,7 +62,7 @@ Remove from favourites button: Each movie should have remove from favourites but
 
 <p align="center">
 
-<a href="mailto:suraj.ch122@gmail.com@gmail.com">
+suraj.ch122@gmail.com
 
 
 </p>
